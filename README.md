@@ -45,3 +45,14 @@ Download:
 ```bash
 git clone hhttps://github.com/TalysonRoberto/detector-maos-mediapipe.git
 cd detector-maos-mediapipe
+
+## 📸 Demonstração
+
+### 🖐️ Detecção e contagem de dedos
+![Detector de mãos - Exemplo 1](assets/demo3.png)
+
+### ✋ Mão aberta (5 dedos)
+![Detector de mãos - Exemplo 2](assets/demo1.png)
+
+### ✊ Mão fechada
+![Detector de mãos - Exemplo 3](assets/demo2.png)
